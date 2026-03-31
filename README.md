@@ -4,7 +4,7 @@
 **Course:** Open Source Software | VITyarthi
 **Student Name:** Aayush Raj
 **Roll Number:** 24BCG10027  
-**Chosen Software:** Git (Licensed under GPL v2)
+**Chosen Software:** MySQL
 
 ---
 
